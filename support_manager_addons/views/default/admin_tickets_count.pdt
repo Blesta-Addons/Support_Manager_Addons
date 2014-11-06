@@ -1,0 +1,1 @@
+        <?php echo($this->_("SupportManagerAddonsPlugin.nav_primary_admin.main", true));?><?php if($status_count['open'] > 0){?><span class="spro_badge"><?php echo($status_count['open']);?></span><?php };?>
